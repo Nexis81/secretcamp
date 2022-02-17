@@ -1,2 +1,2 @@
-# secretcamp
+# Secret Camp
 Secret Camp Website
